@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: sac-fox-tribe-of-the-mississippi-in-iowan-restitution-roadmap-and-qsf-trust-execution
+  name: Sac Fox Tribe of the Mississippi In Iowan Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/sac-fox-tribe-of-the-mississippi-in-iowan-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
